@@ -1,5 +1,5 @@
-## Hi there 👋
-- 👋 I’m Smrithi! (@smrithipiedy)
+## Hey there! 👋
+- 👩‍💻 I’m Smrithi! (@smrithipiedy)
 - 👀 I’m interested in Web Development, UI/UX and Cloud Computing!
 - 🌱 I’m currently learning Full-Stack Development (Front-End as of now).
 - 💞️ I’d love to collaborate on projects with HTML, CSS, JavaScript, C or Python.  
