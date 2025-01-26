@@ -1,6 +1,6 @@
 ## Hey there! 👋
 - 👩‍💻 I’m Smrithi! (@smrithipiedy)
-- 👀 I’m interested in Web Development, UI/UX and Cloud Computing!
+- 👀 I’m interested in Software & Web Development, UI/UX and Cloud Computing!
 - 🌱 I’m currently learning Full-Stack Development (Front-End as of now).
 - 💞️ I’d love to collaborate on projects with HTML, CSS, JavaScript, C or Python.  
 - 📫 You can reach me on my email: smrithipiedy21@outlook.com
