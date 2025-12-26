@@ -1,7 +1,5 @@
 ## Hey there! 👋
 
-[![An image of @smrithipiedy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smrithipiedy)](https://holopin.io/@smrithipiedy)
-
 - 👩‍💻 I’m Smrithi! (@smrithipiedy)
 - 👀 I’m interested in Software & Web Development, UI/UX and Cloud Computing.
 - 🌱 I’m currently learning Full-Stack Development and Fundamentals of Design.
