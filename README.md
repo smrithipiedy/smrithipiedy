@@ -1,5 +1,5 @@
 ## Hey there! 👋
-![Smrithi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=smrithipiedy&show_icons=true&theme=radical&hide=contribs,issues)     
+![Smrithi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=smrithipiedy&show_icons=true&theme=nightowl&hide=contribs,issues)     
 - 👩‍💻 I’m Smrithi! (@smrithipiedy)
 - 👀 I’m interested in Software & Web Development, UI/UX and Cloud Computing.
 - 🌱 I’m currently learning Full-Stack Development and Fundamentals of Design.
