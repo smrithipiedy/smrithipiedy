@@ -1,6 +1,6 @@
-# Smrithi P
-
-### Full Stack Developer • Open Source Contributor • Google Student Ambassador
+<div align="center">
+  <img src="smrithi_github_banner.svg" alt="Smrithi P — GitHub Banner" width="100%"/>
+</div>
 
 <p align="center">
   <a href="https://github.com/smrithipiedy">
