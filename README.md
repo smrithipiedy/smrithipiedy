@@ -34,27 +34,6 @@ Computer Science & Engineering student passionate about building products, contr
 
 ---
 
-## Featured Project
-
-### BallotIQ
-
-AI-powered election education platform designed to make civic awareness more accessible and engaging.
-
-#### Highlights
-
-- Personalized AI-powered learning experiences
-- Real-time translation in 8 languages
-- Voice-enabled accessibility features
-- Powered by Gemini API
-- Deployed on Google Cloud
-- Open Source Project
-- Accepted into Social Summer of Code 2026
-- Maintained with community contributions
-
-**Tech Stack:** Next.js • TypeScript • Firebase • Gemini API • Google Cloud
-
----
-
 ## Tech Stack
 
 ### Languages
@@ -72,7 +51,7 @@ AI-powered election education platform designed to make civic awareness more acc
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Databases
@@ -84,7 +63,7 @@ AI-powered election education platform designed to make civic awareness more acc
 ### Cloud & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,figma,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,figma,vscode,vercel,antigravity,cursor" />
 </p>
 
 ---
