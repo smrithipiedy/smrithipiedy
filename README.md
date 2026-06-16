@@ -3,6 +3,9 @@
 </div>
 
 <p align="center">
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=smrithipiedy&label=Profile+Views&color=8b5cf6&style=flat" />
+  </a>
   <a href="https://github.com/smrithipiedy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -27,9 +30,9 @@ Computer Science & Engineering student passionate about building products, contr
 - Google Student Ambassador 2026
 - Full Stack Developer
 - Project Admin — Social Summer of Code 2026
-- Open Source Contributor (SWOC & GSSoC)
-- Exploring Agentic AI, Cloud Computing, and Developer Tooling
-- Hackathon Winner
+- Open Source Contributor (SWOC & GSSoC, 2024 - Present)
+- Exploring Agentic AI Engineering and Cloud Computing
+- Hackathon Winner & Finalist at multiple hackathons
 - Chess Enthusiast
 
 ---
@@ -68,24 +71,6 @@ Computer Science & Engineering student passionate about building products, contr
 
 ---
 
-## Open Source
-
-- 10+ Pull Requests merged
-- Social Winter of Code Contributor (2025, 2026)
-- GirlScript Summer of Code Contributor (2025, 2026)
-- Project Admin — Social Summer of Code 2026
-
----
-
-## What I'm Working On
-
-- Building full-stack web applications
-- Exploring AI workflows and agentic systems
-- Learning scalable backend architecture
-- Growing developer communities through the Google Student Ambassador program
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -114,10 +99,6 @@ Computer Science & Engineering student passionate about building products, contr
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smrithipiedy&label=Profile+Views&color=8b5cf6&style=flat" />
-</p>
 
 <p align="center">
   <i>Building useful software, learning continuously, and sharing the journey.</i>
