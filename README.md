@@ -42,7 +42,7 @@ Computer Science & Engineering student passionate about building products, contr
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c" />
 </p>
 
 ### Frontend
