@@ -1,10 +1,105 @@
-## Hey there! [👋](https://camo.githubusercontent.com/fdbb217c593023d7e722d8894ca691b2c2ec9d85406d3bf77a91da37770e78d6/68747470733a2f2f666f6e74732e677374617469632e636f6d2f732f652f6e6f746f656d6f6a692f6c61746573742f31663434622f3531322e676966)
+<div align="center">
+  <img src="smrithi_github_banner.svg" alt="Smrithi P — GitHub Banner" width="100%"/>
+</div>
 
-![Smrithi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=smrithipiedy&show_icons=true&theme=nightowl&hide=contribs,issues) ![Alt text](./gssoc-badge-power-contributor.png)
+<p align="center">
+  <a>
+  <img src="https://komarev.com/ghpvc/?username=smrithipiedy&label=Profile+Views&color=8b5cf6&style=flat" />
+  </a>
+  <a href="https://github.com/smrithipiedy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:smrithipiedy49@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/smrithipiedy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-- 👩‍💻 I’m Smrithi! (@smrithipiedy)
-- 👀 I’m interested in Software & Web Development, UI/UX and Cloud Computing.
-- 🌱 I’m currently learning Full-Stack Development (MERN) and Fundamentals of Design.
-- 💞️ I’d love to collaborate on projects with MERN stack, CRUD operations, and Python.
-- 📫 You can reach me on my email: smrithipiedy49@gmail.com
-- ⚡ Fun fact: I have an eye for all things creative, and I'm a chess enthusiast.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Building+AI-powered+products;Project+Admin+at+Social+Summer+of+Code+2026;Google+Student+Ambassador+2026;Open+Source+Contributor;Always+building+something+new" />
+</p>
+
+---
+
+## About Me
+
+Computer Science & Engineering student passionate about building products, contributing to open source, and exploring AI-powered experiences.
+
+- Google Student Ambassador 2026
+- Full Stack Developer
+- Project Admin — Social Summer of Code 2026
+- Open Source Contributor (SWOC & GSSoC, 2024 - Present)
+- Exploring Agentic AI Engineering and Cloud Computing
+- Hackathon Winner & Finalist at multiple hackathons
+- Chess Enthusiast
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+### Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,figma,vscode,vercel,antigravity,cursor" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smrithipiedy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=smrithipiedy&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrithipiedy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smrithipiedy&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smrithipiedy&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building useful software, learning continuously, and sharing the journey.</i>
+</p>
